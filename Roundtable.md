@@ -9,7 +9,7 @@ You must have 3 separate/different ideas for EACH roundtable. For each idea pres
 <ul>
 <li>Describe the concept in 3 brief sentences</li> 
 <li>Visually show links to at least 3 other similar works or influences – both technical and conceptual. Minimum 6 links. </li>
-<li><a href ="    ">Use the storyboard template provided</a> to describe what the experience is like over time. What does it look like initially? What is the space like? How would I interact with it? How would it react to me? What would that reaction look like? Show the timeline of interactivity: when no one is around, when one person is around, when a group of people are around, when it turns on, when it turns off, how it turns on and off, etc, etc.</li>
+<li><a href ="https://github.com/IDMNYU/InteractiveInstallation_Spring19_Bennett/tree/master/storyboardTemplates">Use the storyboard template provided</a> to describe what the experience is like over time. What does it look like initially? What is the space like? How would I interact with it? How would it react to me? What would that reaction look like? Show the timeline of interactivity: when no one is around, when one person is around, when a group of people are around, when it turns on, when it turns off, how it turns on and off, etc, etc.</li>
 <li>What space would this use on campus?</li>
 <li>What is the interface? What is controlling this system?</li>
 <li> What are the inputs? Describe these in detail, with visual sketches or examples.</li>
