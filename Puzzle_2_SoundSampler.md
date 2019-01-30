@@ -71,3 +71,5 @@ See also:
 * MSP Tutorial 3: Playback with loops
 * MSP Tutorial 6: Record and Play Aiff's
 * Max tutorial 19: Timing
+
+* submit your patch to your github repo label as FirstName_P2.maxpat

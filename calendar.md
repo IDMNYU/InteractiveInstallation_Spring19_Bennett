@@ -8,9 +8,9 @@
 
 ##### Homework 
 * [Get a copy of Max/MSP/Jitter, Download it and install it](https://cycling74.com/products/max/)
-* Read & Work through Max tutorials: XX
+* Read & Work through Max tutorials + Explore the associated patches (Max/Help/References/Click-on-the-house/Max/Tutorials: Hello - Keyboard & Mouse Input  (1-8))
 * Join our **[Slack](https://interactivein-npx3934.slack.com)** workspace. 
-* Email me your [Github Handle/Name](https://github.com/). If you do not have one, please setup a Github Account
+* Direct Message me your [Github Handle/Name](https://github.com/). If you do not have one, please setup a Github Account
 * Set up your [Process Site](Process_Site.md) ENTIRELY. Test your site url and every page created in a different browser
 * Post a link to your [Process Site](Process_Site.md) in our Slack Workspace under the Process-Site-URL Channel.
 * Prepare your Show + Tell Presentation
@@ -19,13 +19,14 @@
 ##### InClass
 * Max Intro
 
-###### Show & Tell 0: 
+###### Show & Tell 0: Lynn Hershman Leeson & Char Davies
 ###### Show & Tell 1: Jeffery Shaw & Myron Kruger 
-###### Show & Tell 2:
+###### Show & Tell 2: David Rokeby & Toni Dove
 
 ##### Homework 
-* Read through the following Max Tutorials + Explore the associated patches (Max/Help/References/Click-on-the-house/Max/Tutorials: Hello - Keyboard & Mouse Input  (1-8))
-* Max Puzzles 1-2
+* Review Max Tutorials + Explore the associated patches (Max/Help/References/Click-on-the-house/Max/Tutorials: Hello - Keyboard & Mouse Input  (1-8))
+* Review Luke's 10 Things to know about Max, including subpatchers
+* Max Puzzles 1-2 (including advised tutorial patches)
 * Prep your Show + Tell
 
 
@@ -36,14 +37,13 @@
 * MSP intro
 * Challenge
 
-###### Show & Tell 3: MARKUS HECKMANN
+###### Show & Tell 3: MARKUS HECKMANN & Daniel Rozin
 ###### Show & Tell 4: Adrien M & Claire B Company & Martin Messier
 ###### Show & Tell 5: Universal Everything & Karolina Sobekecka
 
 ##### Homework 
 * Max Puzzle 3
-* Schedule your Fab Lab Induction (See email previously forwarded by me)
-
+* Schedule your Fab Lab Induction or Maker Space Induction
 
 
 ### Week 4 Feb 20th: Maxin' Video!
@@ -53,14 +53,14 @@
 * Jitter Basics
 
 
-###### Show & Tell 6: Sabrina Raaf & David Rokeby 
+###### Show & Tell 6: Sabrina Raaf & Jim Campbell
 ###### Show & Tell 7: Rafael Lozano-Hemmer & Nils Voelker
 ###### Show & Tell 8: eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp) 
 
 
 ##### Homework
 * [Schedule your Maker Space Safety Orientation](https://wp.nyu.edu/makerspace/training-calendar/)
-*  Jitter Tutorials: What is a Matrix, Attributes, 1 - 5)
+*  Jitter Tutorials: What is a Matrix, Attributes, 1 - 5
 * Max puzzle 4  
 
 

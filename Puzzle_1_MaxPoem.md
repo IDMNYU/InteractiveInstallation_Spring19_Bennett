@@ -47,3 +47,5 @@ See the Max Patch - Poem Palette on Slack under "resources" to explore various o
 * Explore different ways to automate the system
 
 * Explore different ways to randomize, choose, manipulate, augment the poem and it's irregularity.
+
+* submit your patch to your github repo label as FirstName_P1.maxpat

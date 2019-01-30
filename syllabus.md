@@ -5,6 +5,7 @@
 * **2 MetroTech Room 817**
 * **Katherine Bennett, Visiting Assistant Professor**
 * **Email: Katherine.Bennett@nyu.edu**
+* **[Slack invitation](https://join.slack.com/t/interactivein-npx3934/shared_invite/enQtNTI2NzE3MDY2NDM0LTM4Njg5OGMyOTNjMjg0YWRhOTlmMGQxMDU5NDZmYWYwMWRkMmQ0YTIwYTFkZWNmZDg4NjRhMzViMjMzMDkzYjg)**
 * **[Slack](https://interactivein-npx3934.slack.com)**
 
 What is interactivity? What does it mean to create meaningful interactive experiences? In this hand-on course, students will learn how to create interactive installations and environments. Scale and space will be explored with reference to the body, while creating cybernetic systems for real-time and time-based interaction. Software (Max/MSP/Jitter, Computer Vision, Arduino), electronics and physical computing will be covered in a workshop style format, with the goal of students creating physically interactive environments and systems. A variety of input and output mechanisms (edge detection, tracking, capacitance sensors, presence sensors, custom switches, etc), networking and best practices will be covered in workshops. Class discussions will cover readings about interactive art and design, space, time and installation. Students are free to explore their own ideas/concepts through the lense of this course or to work with given design briefs. 
@@ -73,6 +74,7 @@ This course does presume that students will:
 •	Be respectful of others. Help others in their ideas.
 
 
+
 ### Requirements
 
 •   [A copy of Max/MSP/Jitter. Check out the education options. Download it and install it](https://cycling74.com/shop?educational=1)
@@ -111,7 +113,7 @@ This course does presume that students will:
 
 • Communicate your ideas, questions, and challenges to me and the rest of the class. Participate in class and ask questions.
 
-
+•	Submit your homework max patches to your github repo by Noon on tuesday.
 
 
 #### Reqired Materials
@@ -153,7 +155,7 @@ Simply completing the assignment will not generate you an "A". I am looking for 
 
 Your final grade will be based on a synthesis of quantitative and qualitative rubrics, as outlined below.
 
-#### special notice to graduate students: You must obtain a grade "C" to pass the course. If you have a "C-" or below around midterms and there after, you will be advised to drop the course _before the last day to drop the course of the semester, about the 10th week of the semester._ 
+#### special notice to graduate students: You must obtain a grade "C" to pass the course. If you have a "C-" or below around midterms and there after, you will be advised to drop the course _before the last day to drop the course of the semester, about the 9th week of the semester._ 
 
 
 **A.	100 – 90%**	Excellent, Outstanding, Superior Performance, participation, attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, and pursues concepts and techniques above and beyond what is discussed in class. The student thoroughly understands interactivity, has a developed and practically can create well-designed interactive installations.
