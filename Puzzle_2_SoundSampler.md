@@ -68,8 +68,12 @@ Then, coreography the entry and exit of each of these sound bites, as well as ho
 When your patch is loaded and a bang is sent, a 90 second layered audio piece of unknown composition will play for your viewers.
 
 See also:
-* MSP Tutorial 3: Playback with loops
-* MSP Tutorial 6: Record and Play Aiff's
+* MSP  Basics tutorial: 1: Test Tone
+* MSP  Basics tutorial: 2: Ajustable Oscillator
+* MSP Sampling Tutorial 1: Recording and Playback
+* MSP Sampling tutorial 2: Play back from Multiple Sample Points
+* MSP Sampling tutorial 3: Playback with Loops
+* MSP Sampling Tutorial 6: Record and Play audio files
 * Max tutorial 19: Timing
 
 * submit your patch to your github repo label as FirstName_P2.maxpat

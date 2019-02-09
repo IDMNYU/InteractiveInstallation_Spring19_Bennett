@@ -26,7 +26,7 @@
 ##### Homework 
 * Review Max Tutorials + Explore the associated patches (Max/Help/References/Click-on-the-house/Max/Tutorials: Hello - Keyboard & Mouse Input  (1-8))
 * Review Luke's 10 Things to know about Max, including subpatchers
-* Max Puzzles 1-2 (including advised tutorial patches)
+* Max Puzzles 1 (including advised tutorial patches)
 * Prep your Show + Tell
 
 
@@ -42,8 +42,16 @@
 ###### Show & Tell 5: Universal Everything & Karolina Sobekecka
 
 ##### Homework 
-* Max Puzzle 3
+* Max Puzzle 2
 * Schedule your Fab Lab Induction or Maker Space Induction
+* Read the following tutorials: 
+* MSP  Basics tutorial: 1: Test Tone
+- MSP  Basics tutorial: 2: Ajustable Oscillator
+- MSP Sampling Tutorial 1: Recording and Playback
+- MSP Sampling tutorial 2: Play back from Multiple Sample Points
+- MSP Sampling tutorial 3: Playback with Loops
+- MSP Sampling Tutorial 6: Record and Play audio files
+- Max tutorial 19: Timing
 
 
 ### Week 4 Feb 20th: Maxin' Video!
