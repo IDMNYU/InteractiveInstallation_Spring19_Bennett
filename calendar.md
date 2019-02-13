@@ -42,8 +42,9 @@
 ###### Show & Tell 5: Universal Everything & Karolina Sobekecka
 
 ##### Homework 
-* Max Puzzle 2
+* Max Puzzle 2 & Finish in-class Challenge
 * Schedule your Fab Lab Induction or Maker Space Induction
+* Read Myron Kruger's "Responsive Environments" (found under Slack "resources")
 * Read the following tutorials: 
 * MSP  Basics tutorial: 1: Test Tone
 - MSP  Basics tutorial: 2: Ajustable Oscillator
