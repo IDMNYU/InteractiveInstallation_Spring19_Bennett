@@ -25,9 +25,15 @@ See:
 
 
 MSP  Basics tutorial: 1: Test Tone
+
 MSP  Basics tutorial: 2: Ajustable Oscillator
+
 MSP Sampling Tutorial 1: Recording and Playback
+
 MSP Sampling tutorial 2: Play back from Multiple Sample Points
+
 MSP Sampling tutorial 3: Playback with Loops
+
 MSP Sampling Tutorial 6: Record and Play audio files
+
 Max tutorial 19: Timing
