@@ -96,12 +96,11 @@
 * Work on Midterm
 
 
-### Week 7 March 13th: Midterm Critique (in-class)
+### Week 7 March 13th: Studio time
 * Launch Final Project
 
 ##### Homework
 * upload midterm documentation to your process site
-* [MidTerm Self-Assessment](Self-Assessment.md)
 * Reading:
 * Reflect:
 * Bring a Kinect V1 1414 to week 10's class, along with it's power supply and an adaptor for your laptop. Don't forget! Do not leave this until the last minute.
@@ -109,9 +108,11 @@
 ### Spring Break March 18th - 22nd
 
 ### Week 8 March 27th:
-##### Field Trip
+##### Midterm Critique (in-class)
 
 ##### Homework 
+* upload midterm documentation to your process site
+* [MidTerm Self-Assessment](Self-Assessment.md)
 * Prepare your [Roundtable Presentation](Roundtable.md) for your final project
 * Practice your presentation. Time yourself _actually practicing_ to ensure your presentation fits within 4 minutes (running all media necessary).
 
