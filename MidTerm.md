@@ -31,7 +31,7 @@ Using Max/MSP/Jitter and openCV, create an interactive experience which explores
 
 Resource:
 
-[Temporal Experiences: Re-ordering Time and Memory Through Space](https://github.com/IDMNYU/InteractiveInstallation_Spring19_Bennett/blob/master/temporal_experiences.md)
+[Temporal Experiences: Re-ordering Time and Memory Through Space](https://github.com/IDMNYU/InteractiveInstallation_Spring19_Bennett/tree/master/Intro_TemporalExperiences)
 
 
 ### Process
@@ -67,5 +67,5 @@ Resource:
 * Post on your Process Site about the process of developing this project as well as the outcome, and code. Everything needs to be on your Process site. Put a link to your github repo, which has a repo for the project, with all of the code.
 
 
-#### [Temporal Experiences](https://github.com/IDMNYU/InteractiveInstallation_Spring19_Bennett/blob/master/temporal_experiences.md)
+#### [Temporal Experiences](https://github.com/IDMNYU/InteractiveInstallation_Spring19_Bennett/tree/master/Intro_TemporalExperiences)
 
