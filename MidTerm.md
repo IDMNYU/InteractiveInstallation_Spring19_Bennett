@@ -19,7 +19,7 @@ When we send a video recording, we are sending a former moment of our own. As th
 Input and output need to be explored, along with feedback loops, interactivity, space and control.
 
 
-Techniques to consider: edge detection, frame difference, blob tracking, depth tracking, skeletal tracking
+Techniques to consider: edge detection, frame difference, blob tracking, ~depth tracking, skeletal tracking~
 
 
 Themes covered: multi-temporality: the time that comes about through the simultaneous assemblage or re-presentation of temporally disparate information. Multi-temporality is within our interactive encounters with digital technologies, as we can recompose nonlinear information, re-experience information, and experience multiple scales of time simultaneously.
