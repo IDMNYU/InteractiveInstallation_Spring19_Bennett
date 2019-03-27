@@ -37,6 +37,8 @@ When building a technical interactive system, treat each element of your system 
 
 • Concept map/Word map of concepts and ideas that you are interested in exploring
 
+• Show evidence of your cardsorting exercise or scamper exercise output. Include a reflection which summarizes your endpoints.
+
 • 3-7 different artists, designers, projects, theorists, writers, musicans, poets
 
 • Use the [storyboard templates](https://github.com/IDMNYU/InteractiveInstallation_Spring19_Bennett/tree/master/storyboardTemplates) to sketch out what would happen over time in your piece. What changes? What causes those changes? What does the space look like? What do those changes look like?

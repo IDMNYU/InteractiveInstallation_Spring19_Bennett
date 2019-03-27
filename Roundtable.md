@@ -1,6 +1,6 @@
 ### Deliverables for the Roundtable Discussions 
 
-Roundtable discussions will take place a week after the project briefs are released. After developing your ideas with a bit of research and sketching, we will discuss these ideas in class as a group discussion. It’s an opportunity to bounce ideas off the group in order to get good feedback. This ensures a strong project that meets the minimum project requirements while investigating your conceptual interests.
+Roundtable discussions will take place a week after the project briefs are released. After developing your ideas (ie, Scamper Technique](S-C-A-M-P-E-R.md),[Card Sorting Technique](cardSortingTechnique.md) ), write a concise paragraph as to what your idea is about. Then, with a bit of research and sketching, we will discuss these ideas in class as a group discussion. It’s an opportunity to bounce ideas off the group in order to get good feedback. This ensures a strong project that meets the minimum project requirements while investigating your conceptual interests.
 
 In order to prepare for this presentation and to communicate your ideas to the class succinctly, the following is required as a Process Site post under the particular project tab. At times, you may be asked to document your presentation of these ideas and to post the video to your Process Site, under the particular Project tab.
 
@@ -14,6 +14,8 @@ You must have 3 separate/different ideas for EACH roundtable. For each idea pres
 <li>What is the interface? What is controlling this system?</li>
 <li> What are the inputs? Describe these in detail, with visual sketches or examples.</li>
 <li> What are the outputs? Describe these in detail, with visual sketches or examples.</li>
+<li> What other projects, pieces, issues, problems, phenomena are inspiring or influencing your project? Are there related projects/pieces out there already? What are they? Give context to your idea, outside of your own head. </li> 
+<li> What media will you be using or creating? </li>
 </ul>
 
 After generating the above material, you must also then prepare a 4 minute (total) presentation of your ideas to give to the class. Upload the presentation material to your process site. You do not have to present from your Process site. Rather, the documents from the presentation must be documented on your process site.
