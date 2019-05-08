@@ -165,9 +165,10 @@
 * Document Final Project
 
 ##### Homework
-* Document Final Project
-* [Final Self Assessment](SelfAssessments.md)
+* Document Final Project - post to process site
+* Send this to me in a direct message: [Final Self Assessment](SelfAssessments.md)
+* Write a letter to the next cohort or create a short video (1-3 minutes) giving them advice on how to reach their learning goals and get value out of this course. What would you have like to have known around the beginning of the course? Around Midterms? Finals? Give them advice on how to get value and to succeed. Send me this document as a direct message on slack
 
-### May 10th: Finals Documentation + Self-Assessment Due at 17:00
+### May 10th: Finals Documentation + Self-Assessment + Letter to the next cohort Due at 17:00
 
 Have a great summer! Please keep in touch!
